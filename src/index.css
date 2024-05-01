@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+  
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    /* text-align: center; */
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .sliders{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/1.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .sliders1{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/2.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .sliders2{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/3.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .sliders3{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/4.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .sliders4{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/5.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .sliders5{
+    background: linear-gradient(90.00deg, rgb(21, 21, 21),rgba(21, 21, 21, 0) 100%), url('./assets/images/banner/6.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .swiper-button-next{
+    background:  rgba(255, 255, 255, 0.2);
+    color: white !important;
+    padding: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 85% !important;
+    right: 5% !important;
+    display: flex !important;
+  }
+  .swiper-button-prev{
+    background:  rgba(255, 255, 255, 0.2);
+    color: white !important;
+    padding: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 85% !important;
+    left: 83% !important;
+    display: flex !important;
+  }
+  .swiper-button-next:hover,.swiper-button-prev:hover{
+    background-color: #FF3811;
+  }
+  
