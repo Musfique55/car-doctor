@@ -1,0 +1,14 @@
+<svg width="31.000000" height="31.000000" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip351_747">
+			<rect id="bx:bxl-facebook" width="31.000000" height="31.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="bx:bxl-facebook" width="31.000000" height="31.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip351_747)">
+		<path id="Vector" d="M17.3 27.12L17.3 16.53L20.87 16.53L21.4 12.38L17.3 12.38L17.3 9.74C17.3 8.55 17.63 7.73 19.35 7.73L21.52 7.73L21.52 4.03C20.47 3.92 19.4 3.87 18.34 3.87C15.18 3.87 13.01 5.8 13.01 9.34L13.01 12.38L9.47 12.38L9.47 16.52L13.02 16.52L13.02 27.12L17.3 27.12Z" fill="#3B5998" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

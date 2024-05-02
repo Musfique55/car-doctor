@@ -24,7 +24,7 @@ const Home = () => {
             <Swiper
                 navigation={true}
                 modules={[Navigation]}
-                className="mySwiper relative"
+                className="mySwiper relative rounded-lg"
             >
                 <SwiperSlide className='sliders p-24 space-y-7'>
                     <h3 className=' text-white font-bold text-6xl'>Affordable <br /> Price For Car <br /> Servicing</h3>
